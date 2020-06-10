@@ -10,7 +10,7 @@ jobs:
 
     steps:
 
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
 
       - name: Greeting
         run: echo "Hello! From ${{ github.workflow }} triggered by ${{ github.event_name }} by ${{ github.actor }}"  

@@ -8,11 +8,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        os: [ubuntu-latest, windows-latest, macOs-latest]
-
-    name: ${{ matrix.os }}
+    name: Build, pack & publish
     
     steps:
 
@@ -43,7 +39,7 @@ jobs:
           # VERSION_FILE_PATH: Directory.Build.props
 
           # Regex pattern to extract version info in a capturing group
-          # VERSION_REGEX: <Version>(.*)<\/Version>
+          VERSION_REGEX: <Version>(.*)<\/Version>
           
           # Useful with external providers like Nerdbank.GitVersioning, ignores VERSION_FILE_PATH & VERSION_REGEX
           # VERSION_STATIC: 1.0.0

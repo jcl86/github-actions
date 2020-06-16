@@ -1,0 +1,9 @@
+F:\DESARROLLO\Repos\github-actions\src\Example\bin\Release\netcoreapp3.1\Example.deps.json
+F:\DESARROLLO\Repos\github-actions\src\Example\bin\Release\netcoreapp3.1\Example.dll
+F:\DESARROLLO\Repos\github-actions\src\Example\bin\Release\netcoreapp3.1\Example.pdb
+F:\DESARROLLO\Repos\github-actions\src\Example\obj\Release\netcoreapp3.1\Example.csprojAssemblyReference.cache
+F:\DESARROLLO\Repos\github-actions\src\Example\obj\Release\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+F:\DESARROLLO\Repos\github-actions\src\Example\obj\Release\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+F:\DESARROLLO\Repos\github-actions\src\Example\obj\Release\netcoreapp3.1\Example.AssemblyInfo.cs
+F:\DESARROLLO\Repos\github-actions\src\Example\obj\Release\netcoreapp3.1\Example.dll
+F:\DESARROLLO\Repos\github-actions\src\Example\obj\Release\netcoreapp3.1\Example.pdb

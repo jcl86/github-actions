@@ -15,7 +15,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\Example.csproj",
-      "projectName": "Example",
+      "projectName": "AadvantageLab.Example",
       "projectPath": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\Example.csproj",
       "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
       "outputPath": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\obj\\",

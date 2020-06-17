@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Test/1.0.0": {
+        "dependencies": {
+          "AadvantageLab.Example": "1.1.0"
+        },
         "runtime": {
           "Test.dll": {}
+        }
+      },
+      "AadvantageLab.Example/1.1.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Example.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AadvantageLab.Example/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1mGCQIJ47zbFk4KKggZ8/jpiQyx2iVsi8X4PXZh3F0WyNiAlDftRr6c2bKoyy5uitFAtPOgjtHnfFsasXhxw6Q==",
+      "path": "aadvantagelab.example/1.1.0",
+      "hashPath": "aadvantagelab.example.1.1.0.nupkg.sha512"
     }
   }
 }

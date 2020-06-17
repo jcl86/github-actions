@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\Example.csproj": {}
+    "F:\\DESARROLLO\\Repos\\github-actions\\src\\Test\\Test.csproj": {}
   },
   "projects": {
-    "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\Example.csproj": {
-      "version": "1.1.0",
+    "F:\\DESARROLLO\\Repos\\github-actions\\src\\Test\\Test.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\Example.csproj",
-        "projectName": "AadvantageLab.Example",
-        "projectPath": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\Example.csproj",
+        "projectUniqueName": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-        "outputPath": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Example\\obj\\",
+        "outputPath": "F:\\DESARROLLO\\Repos\\github-actions\\src\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "AadvantageLab.Example": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

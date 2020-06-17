@@ -1,0 +1,5 @@
+F:\DESARROLLO\Repos\github-actions\src\Test\bin\Release\netcoreapp3.1\Test.deps.json
+F:\DESARROLLO\Repos\github-actions\src\Test\bin\Release\netcoreapp3.1\Test.dll
+F:\DESARROLLO\Repos\github-actions\src\Test\obj\Release\netcoreapp3.1\Test.csprojAssemblyReference.cache
+F:\DESARROLLO\Repos\github-actions\src\Test\obj\Release\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+F:\DESARROLLO\Repos\github-actions\src\Test\obj\Release\netcoreapp3.1\Test.AssemblyInfo.cs
